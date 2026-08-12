@@ -1,0 +1,16 @@
+<HTML>
+<HEAD>
+    <TITLE>NEB</TITLE>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF">
+    The subjects in Grade 11 are
+    <UL>
+        <LI>English </LI>
+        <LI>Math </LI>
+        <LI>Physics </LI>
+        <LI>Chemistry </LI>
+        <LI>Botany </LI>
+        <LI>Zoology</LI>
+    </UL>
+</BODY>
+</HTML>
