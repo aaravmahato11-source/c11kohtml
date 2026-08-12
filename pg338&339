@@ -1,0 +1,75 @@
+<HTML>
+<HEAD>
+    <TITLE>NEB</TITLE>
+</HEAD>
+<BODY>
+    <!-- Table with cellspacing and cellpadding -->
+    First: Table with cellspacing and cellpadding
+    <TABLE BORDER=3 CELLSPACING=7 CELLPADDING=7>
+    <TR>
+        <TD>Ajay</TD>
+        <TD>Vijay</TD>
+        <TD>Rohan</TD>
+    </TR>
+    <TR>
+        <TD>Pankaj</TD>
+        <TD>Vikas</TD>
+        <TD>Sanjay</TD>
+    </TR>
+    </TABLE>
+
+    <!-- Table with colspan -->
+    Second: Table with colspan
+    <TABLE BORDER=1>
+    <TR>
+        <TD COLSPAN=2>Ajay</TD>
+        <TD>Vijay</TD>
+    </TR>
+    <TR>
+        <TD>Vikas</TD>
+        <TD>Pankaj</TD>
+        <TD>Rohan</TD>
+    </TR>
+    </TABLE>
+
+    <!-- Table with rowspan -->
+    Third: Table with rowspan
+    <TABLE BORDER=1>
+    <TR>
+        <TD ROWSPAN=2>Ajay</TD>
+        <TD>Vijay</TD>
+        <TD>Rohan</TD>
+    </TR>
+    <TR>
+        <TD>Pankaj</TD>
+        <TD>Deepak</TD>
+    </TR>
+    </TABLE>
+
+    <!-- Table with rowspan and colspan -->
+    Fourth: Table with rowspan and colspan
+    <TABLE BORDER=1>
+    <TR>
+        <TD ROWSPAN=2>Ajay</TD>
+        <TD COLSPAN=2>Vijay</TD>
+    </TR>
+    <TR>
+        <TD>Pankaj</TD>
+        <TD>Rohan</TD>
+    </TR>
+    </TABLE>
+
+    <!-- Table with strong tag and a link in cell's data -->
+    Fifth: Table with strong tag and a link in cell's data
+    <TABLE BORDER=1>
+    <TR>
+        <TD COLSPAN=3 ALIGN=CENTER><STRONG><AHREF="http://NEB.org/">Ajay</STRONG></TD>
+    </TR>
+    <TR>
+        <TD>Vijay</TD>
+        <TD>Vikas</TD>
+        <TD>Pankaj</TD>
+    </TR>
+    </TABLE>
+</BODY>
+</HTML>
