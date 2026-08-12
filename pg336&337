@@ -1,0 +1,61 @@
+<HTML>
+<HEAD>
+    <TITLE>NEB</TITLE>
+</HEAD>
+<BODY>
+    <!-- Table with border = 5 -->
+    First: Table with border = 5
+    <TABLE BORDER=5>
+    <TR>
+        <TD>Ajay</TD>
+    </TR>
+    </TABLE>
+
+    <!-- Table with width = 50% -->
+    Second: Table with width = 50%
+    <TABLE BORDER=3 WIDTH=50%>
+    <TR>
+        <TD>Ajay</TD>
+    </TR>
+    </TABLE>
+
+    <!-- Table with width = 50 -->
+    Third: Table with width = 50
+    <TABLE BORDER=1 WIDTH=50>
+    <TR>
+        <TD>Ajay</TD>
+    </TR>
+    </TABLE>
+
+    <!-- Table with height = 75 and align = center and valign=top -->
+    Fourth: Table with height = 75 and align = center and valign=top
+    <TABLE BORDER=3 WIDTH=100 HEIGHT=75>
+    <TR>
+        <TD ALIGN=CENTER>Ajay</TD>
+    </TR>
+    </TABLE>
+
+    <!-- Table with an image -->
+    Fifth: Table with an image
+    <TABLE BORDER=3>
+    <TR>
+        <TD ALIGN=LEFT VALIGN=MIDDLE><IMG SRC="image1.gif" WIDTH=32 HEIGHT=32></TD>
+    </TR>
+    </TABLE>
+
+    <!-- A complete Table with different sized columns -->
+    Sixth: A complete Table with different sized columns
+    <TABLE BORDER=3 WIDTH=300 HEIGHT=75>
+    <TR>
+        <TD WIDTH=60%>Ajay</TD>
+        <TD WIDTH=20%>Ramesh</TD>
+        <TD WIDTH=20%>Vijay</TD>
+    </TR>
+    <TR>
+        <TD>Pankaj</TD>
+        <TD>Vikas</TD>
+        <TD>Rohan</TD>
+    </TR>
+    </TABLE>
+</BODY>
+</HTML>
